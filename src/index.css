@@ -1,0 +1,13 @@
+.con{
+    background-color: #f5f5f5;
+}
+#root{
+    display: flex;
+    align-items: center;
+}
+
+@media (max-width:440px) {
+    #root{
+        display: block;
+    }
+}
