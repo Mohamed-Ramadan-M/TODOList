@@ -15,6 +15,7 @@
     "@mui/icons-material": "^9.0.1",
     "@mui/material": "^9.0.1",
     "@popperjs/core": "^2.11.8",
+    "@vercel/analytics": "^2.0.1",
     "bootstrap": "^5.3.8",
     "notistack": "^3.0.2",
     "react": "^19.2.6",
