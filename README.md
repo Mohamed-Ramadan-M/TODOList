@@ -1,18 +1,28 @@
-# React + Vite
+# Todo List Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive Todo web application built with React, Vite, Bootstrap, and Material UI (MUI). This application helps users manage their daily tasks efficiently.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **Task Management:** Create, read, update, and delete (CRUD) tasks.
+- **Modern UI:** Built with Material UI (MUI) for a polished, accessible look.
+- **Responsive Design:** Layout is fully responsive using Bootstrap.
+- **Fast Development:** Built with React + Vite for high performance and fast refresh cycles.
 
-## React Compiler
+## 🛠 Tech Stack
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+- **Framework:** React
+- **Build Tool:** Vite
+- **UI Components:** Material UI (MUI)
+- **Styling/Layout:** Bootstrap
 
-Note: This will impact Vite dev & build performances.
+## ⚙️ Getting Started
 
-## Expanding the ESLint configuration
+### Prerequisites
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Node.js (v14 or higher recommended)
+- npm or yarn
+
+## live view
+
+- https://todolistreactmui.netlify.app/
